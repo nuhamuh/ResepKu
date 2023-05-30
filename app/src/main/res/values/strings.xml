@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ResepKu</string>
+    <string name="nama_resep">Nama Resep</string>
+    <string name="detail">Detail Resep</string>
+    <string name="bahan">Bahan</string>
+    <string name="pembuatan">Cara Pembuatan</string>
+    <string name="profile">profile</string>
+    <string name="ajojing">Ajojing</string>
+    <string name="Kelas">2C</string>
+    <string name="nama1">Dwi Maharani Purwati - 223307069</string>
+    <string name="nama2">Hanum Tyas Nurani - 223307071</string>
+    <string name="nama3">Nuha Mohammad - 223307078</string>
+</resources>
